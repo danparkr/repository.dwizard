@@ -139,16 +139,6 @@
     </extension>
 </addon><addon id="repository.dwizard" name="[COLOR limegreen][B]D[/B][/COLOR]Wizard Repository" version="1.0" provider-name="danparkr">
     <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]D[/B][/COLOR]Wizard Repository">
-        <dir minversion="18.0" maxversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/leia/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/leia/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/leia/zips/</datadir>
-        </dir>
-        <dir minversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/</datadir>
-        </dir>
         <dir minversion="18.9.0">
             <info compressed="false">https://raw.githubusercontent.com/danparkr/repository.dwizard/master/omega/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/danparkr/repository.dwizard/master/omega/zips/addons.xml.md5</checksum>
